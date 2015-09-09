@@ -3,9 +3,12 @@ Auto create member page upon s2Member user registration.
 
 This is a s2Member mu-plugin.
 
-Based on ideas from here: 
+Based on code from here: 
 
 https://www.s2member.com/forums/topic/updating-page-meta-data/
+
+And here:
+
 https://wordpress.org/support/topic/update-posta-meta
 
 Auto create user page on user registration:
